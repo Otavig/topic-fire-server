@@ -1,0 +1,30 @@
+# Build
+/target/
+build/
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# Spring Tool Suite
+.apt_generated/
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache/
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Maven wrapper
+!.mvn/wrapper/maven-wrapper.jar
+
+# .env file 
+.env
