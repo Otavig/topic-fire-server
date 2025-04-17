@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.13.2",
+    "uuid": "^11.1.0"
+  },
+  "name": "topicsfire-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch server.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Otavig/topic-fire-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Otavig/topic-fire-server/issues"
+  },
+  "homepage": "https://github.com/Otavig/topic-fire-server#readme",
+  "description": ""
+}
